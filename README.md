@@ -1,1 +1,4 @@
-"# Car_Price_Predictor" 
+# Car Price Prediction using Machine Learning
+
+## Contributors:
+- **Louis Sungwoo Cho**
